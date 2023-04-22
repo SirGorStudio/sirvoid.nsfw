@@ -1,0 +1,27 @@
+{
+  "name": "sirvoid.nsfw",
+  "version": "1.3.0",
+  "description": "It is a simple nsfw module, it assigns photos from gif to png in the extensions",
+  "main": "sirvoid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SirGorStudio/sirvoid.nsfw.git"
+  },
+  "keywords": [
+    "nsfw",
+    "nudity",
+    "pornograhy"
+  ],
+  "author": "SirGorStudio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SirGorStudio/sirvoid.nsfw/issues"
+  },
+  "homepage": "https://github.com/SirGorStudio/sirvoid.nsfw#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
